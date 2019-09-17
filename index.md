@@ -1,10 +1,10 @@
-## Huang Ruizhi (Huang Ruizhi)
+# Huang Ruizhi (Huang Ruizhi)
 
-Email: huangrz@amss.ac.cn
+* **Email**: huangrz@amss.ac.cn
 
 # Biography:
 
-I am a postdoc at Academy of Mathematics and Systems Science, Chinese Academy of Sciences (from 2018-2020). My mentors are Prof. Haibao Duan, Prof. Fei Han (NUS), and Prof. Jianzhong Pan.
+I am a postdoc at [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://english.amss.cas.cn) (from 2018-2020). My mentors are Prof. Haibao Duan, Prof. Fei Han (NUS), and Prof. Jianzhong Pan.
 
 I got my PhD degree at Department of Mathematics of National University of Singapore at Nov. 2017, under the supervision of Prof. Jie Wu. 
 
