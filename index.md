@@ -1,4 +1,4 @@
-# Huang Ruizhi (Huang Ruizhi)
+# 黄瑞芝 (Huang Ruizhi)
 
 * **Email**: huangrz@amss.ac.cn
 
