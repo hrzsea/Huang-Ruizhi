@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Huang Ruizhi (Huang Ruizhi)
 
-You can use the [editor on GitHub](https://github.com/hrzsea/huangrz.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Email: huangrz@amss.ac.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Biography:
+
+I am a postdoc at Academy of Mathematics and Systems Science, Chinese Academy of Sciences (from 2018-2020). My mentors are Prof. Haibao Duan, Prof. Fei Han (NUS), and Prof. Jianzhong Pan.
+
+I got my PhD degree at Department of Mathematics of National University of Singapore at Nov. 2017, under the supervision of Prof. Jie Wu. 
+
+From 2011 to 2014, I was working with Prof. Xiugui Liu in Nankai University as a master student. 
+
+Before that, I got the diploma of material physics at Dalian University of Technology, and thereafter worked in two electric companies as technologist and designer for two years.
 
 ### Markdown
 
