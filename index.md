@@ -2,8 +2,7 @@
 
 * **Email**: huangrz@amss.ac.cn
 * **Address**: Institute of Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China, 100190 
-* **Homepage**: [https://sites.google.com/site/hrzsea/](https://sites.google.com/site/hrzsea/)
-
+* **Homepage**: [https://sites.google.com/site/hrzsea/](https://sites.google.com/site/hrzsea/)  
                 [https://hrzsea.github.io/Huang-Ruizhi/](https://hrzsea.github.io/Huang-Ruizhi/)
 
 # Biography:
