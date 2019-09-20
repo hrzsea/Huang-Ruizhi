@@ -1,10 +1,10 @@
 # 黄瑞芝 (Huang Ruizhi)
 
-* **Email**: huangrz@amss.ac.cn  
-    >>a0123769@u.nus.edu
+* **Email**: huangrz@amss.ac.cn，
+             a0123769@u.nus.edu
 * **Address**: Institute of Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China, 100190 
-* **Homepage**: [https://sites.google.com/site/hrzsea/](https://sites.google.com/site/hrzsea/)  
->>>>>>[https://hrzsea.github.io/Huang-Ruizhi/](https://hrzsea.github.io/Huang-Ruizhi/)
+* **Homepage**: [https://sites.google.com/site/hrzsea/](https://sites.google.com/site/hrzsea/)
+                [https://hrzsea.github.io/Huang-Ruizhi/](https://hrzsea.github.io/Huang-Ruizhi/)
 
 # Biography:
 
@@ -26,26 +26,26 @@ Algebraic topology and applications related to manifold topology, differential g
 
 ## Unstable homotopy theory:
 
-- (with Jie Wu), Exponential growth of homotopy groups of suspended finite complexes, 21 pages, to appear in _Mathematische Zeitschrift_. arXiv:1706.02918                                                                                                                                                                                                  
-- (with Jie Wu), Combinatorics of double loop suspensions, evaluation maps and Cohen groups, 37 pages, to appear in _Journal of the Mathematical Society of Japan_. arXiv:1706.02916                                                                                                                                                                         
-- (with Jie Wu), Cancellation and homotopy rigidity of classic functors, _Journal of the London Mathematical Society_ 99 (1) (2019), 225-248. arXiv:1706.02917                                                                                                                                              
-- (with Jie Wu), On mod $p$ $A_p$-spaces, _Algebraic and Geometric Topology_ 17 (2017), 2125-2144.
+- (with Jie Wu), Exponential growth of homotopy groups of suspended finite complexes, 21 pages, to appear in _Mathematische Zeitschrift_. [arXiv:1706.02918](https://arxiv.org/abs/1706.02918).                                                                                                                                                                                                  
+- (with Jie Wu), Combinatorics of double loop suspensions, evaluation maps and Cohen groups, 37 pages, to appear in _Journal of the Mathematical Society of Japan_. [arXiv:1706.02916](https://arxiv.org/abs/1706.02916).                                                                                                                                                                         
+- (with Jie Wu), Cancellation and homotopy rigidity of classic functors, _Journal of the London Mathematical Society_ 99 (1) (2019), 225-248. [arXiv:1706.02917](https://arxiv.org/abs/1706.02917).                                                                                                                                              
+- (with Jie Wu), On mod $p$ $A_p$-spaces, _Algebraic and Geometric Topology_ 17 (2017), 2125-2144. [arXiv:1701.05803](https://arxiv.org/abs/1701.05803).
 
 
 ## Applications of homotopy theory related to geometry and mathematical physics:    
 
-- (with Haibao Duan and Fei Han), String^c structures and modular invariants, 40 pages, arXiv:1905.02093
-- Homotopy types of gauge groups over high dimensional manifolds, 32 pages, submitted. arXiv:1805.04879
-- Homotopy of gauge groups over non-simply-connected five dimensional manifolds, 33 pages, to appear in _Science China Mathematics_. arXiv:1805.04878
+- (with Haibao Duan and Fei Han), String^c structures and modular invariants, 40 pages, [arXiv:1905.02093](https://arxiv.org/abs/1905.02093).
+- Homotopy types of gauge groups over high dimensional manifolds, 32 pages, submitted. [arXiv:1805.04879](https://arxiv.org/abs/1805.04879).
+- Homotopy of gauge groups over non-simply-connected five dimensional manifolds, 33 pages, to appear in _Science China Mathematics_. [arXiv:1805.04878](https://arxiv.org/abs/1805.04878).
 
 
 ## Stable and Rational homotopy theory:             
 
 - (with Xiugui Liu), Some notes on the sectional fibrations, _Topology and its Applications_ 207 (2016), 123-135. PDF
-- (with Xiugui Liu), Non-triviality of a product in the Adams $E_2$-term, _Indian Journal of Pure and Applied Mathematics_, vol. 47 (1) (2016), 59-72. PDF 
-- (with Xiugui Liu), A nontrivial product in the $E_2$-term of the Adams spectral sequence for the sphere spectrum, _Journal of Homotopy and Related Structures_, vol. 10 (4) (2015), 735-748. PDF
+- (with Xiugui Liu), Non-triviality of a product in the Adams $E_2$-term, _Indian Journal of Pure and Applied Mathematics_, vol. 47 (1) (2016), 59-72.
+- (with Xiugui Liu), A nontrivial product in the $E_2$-term of the Adams spectral sequence for the sphere spectrum, _Journal of Homotopy and Related Structures_, vol. 10 (4) (2015), 735-748.
 - (with X. Liu and S. Liu), Existence of $b_0b_1g_0\gamma_s$-element in the stable homotopy of spheres, _Journal of Homotopy and Related Structures_, vol. 9 (2) (2014), 263-271.
-- (with Xiugui Liu), The rational homotopical nilpotency of principal $U_n(\mathbb{C})$-bundles, _Topology and its Applications_ 160 (2013), 1466-1475. PDF
+- (with Xiugui Liu), The rational homotopical nilpotency of principal $U_n(\mathbb{C})$-bundles, _Topology and its Applications_ 160 (2013), 1466-1475.
 
 
 # Grant
