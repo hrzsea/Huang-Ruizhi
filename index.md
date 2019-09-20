@@ -1,9 +1,10 @@
 # 黄瑞芝 (Huang Ruizhi)
 
-* **Email**: huangrz@amss.ac.cn
+* **Email**: huangrz@amss.ac.cn  
+    >>a0123769@u.nus.edu
 * **Address**: Institute of Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China, 100190 
 * **Homepage**: [https://sites.google.com/site/hrzsea/](https://sites.google.com/site/hrzsea/)  
-                [https://hrzsea.github.io/Huang-Ruizhi/](https://hrzsea.github.io/Huang-Ruizhi/)
+>>>>>>[https://hrzsea.github.io/Huang-Ruizhi/](https://hrzsea.github.io/Huang-Ruizhi/)
 
 # Biography:
 
@@ -79,11 +80,11 @@ Abstract: Let $Aut(p)$ denote the space of all self-fibre-homotopy equivalences 
 - AcRF Tier 1 R-146-000-222-112 of MOE of Singapore, SGD88,255 (with Jie Wu).
 
 
-# Awards/Honors/Scholarships
+# Awards/Honors
 
-- 2019 Honorable Mention of PhD thesis for The New World Mathematics Awards (NWMA) 2018, ICCM 2019.
-- 2018-2020 Postdoctoral International Exchange Program for Incoming Post- doctoral Students, China Postdoctoral Council, China Postdoctoral Science Foundation.
-- 2014, 2013 National Scholarship, Ministry of Education of China.
+- 2019, Honorable Mention of PhD thesis for The New World Mathematics Awards (NWMA) 2018, ICCM 2019.
+- 2018-2020, Postdoctoral International Exchange Program for Incoming Post- doctoral Students, China Postdoctoral Council, China Postdoctoral Science Foundation.
+- 2014 and 2013, National Scholarship, Ministry of Education of China.
 
 
 
@@ -93,6 +94,14 @@ Abstract: Let $Aut(p)$ denote the space of all self-fibre-homotopy equivalences 
 - 2019-present, Reviewer for Mathematical Reviews.
 - 2014-present, Reviewer of ZbMath.
 
+# Selected talks
+
+- 2019, Index Theory, Duality and Related Fields–An America-Australia-China-Japan- Singapore Index Theory Meeting (1st), Chern Institute of Mathematics, Tianjin, China.
+- 2018, The 5th China-Russia Workshop on Knot Theory and Related Topics, Dalian University of Technology, Dalian, China.
+- 2018, ICM2018 Satellite Conference on “Braid groups, configuration spaces and homotopy theory”, Federal University of Bahia, Salvador, Brazil.
+- 2018, Joint International Meeting of Chinese Mathematical Society and American Mathematical Society, Fudan University, CAS-AMS, Shanghai, China.
+-2017, 7th East Asian Conference on Algebraic Topology (EACAT), Indian Institute of Science Education and Research (IISER) Mohali, Mohali, India.
+-2017, The 2nd Pan Pacific International Conference on Topology and Applications (2ndPPICTA), Pusan National University, Pusan, Korea.
 
 
 
