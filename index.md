@@ -6,7 +6,7 @@
 * **Homepage**: [https://sites.google.com/site/hrzsea/](https://sites.google.com/site/hrzsea/)
                 [https://hrzsea.github.io/Huang-Ruizhi/](https://hrzsea.github.io/Huang-Ruizhi/)
 
-# Biography:
+# Biography
 
 I am a postdoc at [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://english.amss.cas.cn) (from 2018-2020). My mentors are [Prof. Haibao Duan](http://www.math.ac.cn/kyry/201501/t20150116_276433.html), [Prof. Fei Han (NUS)](http://www.math.nus.edu.sg/~mathanf/), and [Prof. Jianzhong Pan](http://www.math.ac.cn/kyry/201501/t20150116_276445.html).
 
@@ -16,15 +16,15 @@ From 2011 to 2014, I was working with [Prof. Xiugui Liu](https://www.researchgat
 
 Before that, I got the diploma of material physics at [Dalian University of Technology](http://mse.dlut.edu.cn/English.htm), and thereafter worked in two electric companies as technologist and designer for two years.
 
-# Research Interests:
+# Research Interests
 
 Algebraic topology and applications related to manifold topology, differential geometry and mathematical physics, etc.
 
 
-# Publications and Preprints:
+# Publications and Preprints
 
 
-## Unstable homotopy theory:
+## Unstable homotopy theory
 
 - (with Jie Wu), Exponential growth of homotopy groups of suspended finite complexes, 21 pages, to appear in _Mathematische Zeitschrift_. [arXiv:1706.02918](https://arxiv.org/abs/1706.02918).                                                                                                                                                                                                  
 - (with Jie Wu), Combinatorics of double loop suspensions, evaluation maps and Cohen groups, 37 pages, to appear in _Journal of the Mathematical Society of Japan_. [arXiv:1706.02916](https://arxiv.org/abs/1706.02916).                                                                                                                                                                         
@@ -32,14 +32,14 @@ Algebraic topology and applications related to manifold topology, differential g
 - (with Jie Wu), On mod $p$ $A_p$-spaces, _Algebraic and Geometric Topology_ 17 (2017), 2125-2144. [arXiv:1701.05803](https://arxiv.org/abs/1701.05803).
 
 
-## Applications of homotopy theory related to geometry and mathematical physics:    
+## Applications of homotopy theory related to geometry and mathematical physics    
 
 - (with Haibao Duan and Fei Han), String^c structures and modular invariants, 40 pages, [arXiv:1905.02093](https://arxiv.org/abs/1905.02093).
 - Homotopy types of gauge groups over high dimensional manifolds, 32 pages, submitted. [arXiv:1805.04879](https://arxiv.org/abs/1805.04879).
 - Homotopy of gauge groups over non-simply-connected five dimensional manifolds, 33 pages, to appear in _Science China Mathematics_. [arXiv:1805.04878](https://arxiv.org/abs/1805.04878).
 
 
-## Stable and Rational homotopy theory:             
+## Stable and Rational homotopy theory            
 
 - (with Xiugui Liu), Some notes on the sectional fibrations, _Topology and its Applications_ 207 (2016), 123-135. PDF
 - (with Xiugui Liu), Non-triviality of a product in the Adams $E_2$-term, _Indian Journal of Pure and Applied Mathematics_, vol. 47 (1) (2016), 59-72.
