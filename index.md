@@ -66,7 +66,7 @@ Algebraic topology and applications related to manifold topology, differential g
 
 # Service
 
-- Co-organizer of the Beijing-Tianjin-Hebei Topology Seminar.
+- Co-organizer of [Beijing-Tianjin-Hebei Topology Seminar](https://hrzsea.github.io/Beijing-Tianjin-Hebei-Topology-Seminar/).
 - 2019-present, Reviewer for Mathematical Reviews.
 - 2014-present, Reviewer of ZbMath.
 
