@@ -1,10 +1,12 @@
 # 黄瑞芝 (Huang Ruizhi)
 
+* **This page will be no longer updated. The owner prefers to [his google site page](https://sites.google.com/site/hrzsea/)**
+
 * **Email**: huangrz@amss.ac.cn，
              a0123769@u.nus.edu
 * **Address**: Institute of Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China, 100190 
 * **Homepage**: [https://sites.google.com/site/hrzsea/](https://sites.google.com/site/hrzsea/)
-                [https://hrzsea.github.io/Huang-Ruizhi/](https://hrzsea.github.io/Huang-Ruizhi/)
+              
 
 # Biography
 
